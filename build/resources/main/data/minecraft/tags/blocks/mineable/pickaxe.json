@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "lightninglotad:derpositystone",
+    "lightninglotad:derposity_cobblestone",
+    "lightninglotad:derposityore",
+    "lightninglotad:derposity_block",
+    "lightninglotad:ruby_ore",
+    "lightninglotad:ruby_block"
+  ]
+}

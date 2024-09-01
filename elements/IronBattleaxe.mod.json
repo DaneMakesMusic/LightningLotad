@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "iron_battleaxe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Iron Battleaxe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:LightningLotadTab"
+    },
+    "harvestLevel": 2,
+    "efficiency": 7.0,
+    "attackSpeed": 0.75,
+    "enchantability": 16,
+    "damageVsEntity": 7.0,
+    "usageCount": 175,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

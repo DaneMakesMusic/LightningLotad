@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "lightninglotad:derposity_helmet"
+    }
+  },
+  "result": {
+    "item": "lightninglotad:derpositygem",
+    "count": 5
+  }
+}

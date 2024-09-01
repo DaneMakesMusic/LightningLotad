@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "lightninglotad:derpositygem"
+    }
+  },
+  "result": {
+    "item": "lightninglotad:derposity_block",
+    "count": 1
+  }
+}

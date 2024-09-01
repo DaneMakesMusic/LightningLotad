@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bdb",
+    "cba"
+  ],
+  "key": {
+    "a": {
+      "item": "lightninglotad:ruby"
+    },
+    "b": {
+      "item": "lightninglotad:derpositygem"
+    },
+    "c": {
+      "item": "minecraft:emerald"
+    },
+    "d": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "result": {
+    "item": "lightninglotad:dane_gem",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "derposity_battleaxe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Derposity Battleaxe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:LightningLotadTab"
+    },
+    "harvestLevel": 5,
+    "efficiency": 14.0,
+    "attackSpeed": 0.75,
+    "enchantability": 14,
+    "damageVsEntity": 12.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Derpositygem"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

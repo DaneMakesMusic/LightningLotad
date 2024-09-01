@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "ruby_battleaxe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Ruby Battleaxe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:LightningLotadTab"
+    },
+    "harvestLevel": 3,
+    "efficiency": 8.0,
+    "attackSpeed": 0.75,
+    "enchantability": 12,
+    "damageVsEntity": 9.0,
+    "usageCount": 1700,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

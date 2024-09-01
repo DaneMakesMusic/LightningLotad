@@ -1,0 +1,40 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "derposity_sword",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Derposity Sword",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:LightningLotadTab"
+    },
+    "harvestLevel": 1,
+    "efficiency": 8.0,
+    "attackSpeed": 1.2,
+    "enchantability": 16,
+    "damageVsEntity": 9.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Derpositygem"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "PigLotadSpawn"
+    }
+  }
+}

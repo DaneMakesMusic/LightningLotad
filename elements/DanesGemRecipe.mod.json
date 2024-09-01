@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Ruby"
+      },
+      {
+        "value": "CUSTOM:Derpositygem"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "CUSTOM:Derpositygem"
+      },
+      {
+        "value": "Items.COOKED_PORKCHOP"
+      },
+      {
+        "value": "CUSTOM:Derpositygem"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "CUSTOM:Derpositygem"
+      },
+      {
+        "value": "CUSTOM:Ruby"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DaneGem"
+    },
+    "name": "danes_gem_recipe",
+    "namespace": "mod"
+  }
+}

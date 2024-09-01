@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lightninglotad:block/derposity_ore",
+    "particle": "lightninglotad:block/derposity_ore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Public Domain"
+
+[[mods]]
+modId="lightninglotad"
+version="2.0.0"
+displayName="Lightning Lotad"
+displayURL="https://danesmusiccollection.weebly.com"
+logoFile="logo.png"
+credits="Dane & LightningZues5"
+authors="Dane's Music Collection"
+description="Recreation of our mod, Lightning Lotad!"
+
+[[dependencies.lightninglotad]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

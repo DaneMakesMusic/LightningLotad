@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lightning_lotad_equipment",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "lightninglotad:derpositygem"
+    }
+  },
+  "result": {
+    "item": "lightninglotad:derposity_chestplate",
+    "count": 1
+  }
+}

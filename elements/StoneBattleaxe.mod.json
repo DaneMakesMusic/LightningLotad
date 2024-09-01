@@ -1,0 +1,43 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "stone_battleaxe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Stone Battleaxe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:LightningLotadTab"
+    },
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 0.75,
+    "enchantability": 6,
+    "damageVsEntity": 6.0,
+    "usageCount": 175,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.STONE"
+      },
+      {
+        "value": "Blocks.COBBLESTONE"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

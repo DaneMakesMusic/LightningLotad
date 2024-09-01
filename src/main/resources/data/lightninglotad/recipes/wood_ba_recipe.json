@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lightning_lotad_weapons",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "lightninglotad:wood_battleaxe",
+    "count": 1
+  }
+}

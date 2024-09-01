@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 3,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:emerald_ore"
+          }
+        },
+        "state": {
+          "Name": "lightninglotad:ruby_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:deepslate_emerald_ore"
+          }
+        },
+        "state": {
+          "Name": "lightninglotad:ruby_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:stone"
+          }
+        },
+        "state": {
+          "Name": "lightninglotad:ruby_ore"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "lightninglotad:diamond_battleaxe"
+  },
+  "base": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+    "item": "lightninglotad:netherite_battleaxe"
+  }
+}

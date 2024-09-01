@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lightninglotad:block/derposity_cobblestone",
+    "particle": "lightninglotad:block/derposity_cobblestone"
+  },
+  "render_type": "solid"
+}

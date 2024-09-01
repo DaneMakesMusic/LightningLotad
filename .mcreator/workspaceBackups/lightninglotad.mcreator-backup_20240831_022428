@@ -1,0 +1,1741 @@
+{
+  "mod_elements": [
+    {
+      "name": "Derpositysword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derpositysword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/derpositysword.json",
+          "src/main/java/lightninglotad/item/DerposityswordItem.java"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "LightningLotadTab",
+      "type": "tab",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightning_lotad_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Derpositypickaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derpositypickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/derpositypickaxe.json",
+          "src/main/java/lightninglotad/item/DerpositypickaxeItem.java"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "Derposityaxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposityaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/derposityaxe.json",
+          "src/main/java/lightninglotad/item/DerposityaxeItem.java"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "Derposityshovel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposityshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/derposityshovel.json",
+          "src/main/java/lightninglotad/item/DerposityshovelItem.java"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "Derposityhoe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposityhoe",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/DerposityhoeItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/derposityhoe.json"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "Derpositybattleaxe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derpositybattleaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/DerpositybattleaxeItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/derpositybattleaxe.json"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "Derpositygem",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derpositygem",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/DerpositygemItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/derpositygem.json"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "Derpositystone",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derpositystone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/worldgen/placed_feature/derpositystone.json",
+          "src/main/resources/data/lightninglotad/forge/biome_modifier/derpositystone_biome_modifier.json",
+          "src/main/resources/data/lightninglotad/worldgen/configured_feature/derpositystone.json",
+          "src/main/resources/assets/lightninglotad/blockstates/derpositystone.json",
+          "src/main/resources/assets/lightninglotad/models/block/derpositystone.json",
+          "src/main/java/lightninglotad/block/DerpositystoneBlock.java",
+          "src/main/resources/assets/lightninglotad/models/item/derpositystone.json"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "DerposityCobblestone",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_cobblestone",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/block/DerposityCobblestoneBlock.java",
+          "src/main/resources/assets/lightninglotad/models/item/derposity_cobblestone.json",
+          "src/main/resources/assets/lightninglotad/blockstates/derposity_cobblestone.json",
+          "src/main/resources/assets/lightninglotad/models/block/derposity_cobblestone.json"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "Derposity",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/derposity_chestplate.json",
+          "src/main/resources/assets/lightninglotad/models/item/derposity_boots.json",
+          "src/main/resources/assets/lightninglotad/models/item/derposity_helmet.json",
+          "src/main/resources/assets/lightninglotad/models/item/derposity_leggings.json",
+          "src/main/java/lightninglotad/item/DerposityItem.java"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "Derpositystick",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derpositystick",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/DerpositystickItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/derpositystick.json"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "Purplederpositystick",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplederpositystick",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/PurplederpositystickItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/purplederpositystick.json"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "DerpositySwordRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_sword_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityAxeRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_axe_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityShovelRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityHoeRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityBattleaxeRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_battleaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_battleaxe_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "Derposityore",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposityore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/derposityore.json",
+          "src/main/resources/assets/lightninglotad/models/block/derposityore.json",
+          "src/main/resources/data/lightninglotad/worldgen/placed_feature/derposityore.json",
+          "src/main/resources/assets/lightninglotad/blockstates/derposityore.json",
+          "src/main/java/lightninglotad/block/DerposityoreBlock.java",
+          "src/main/resources/data/lightninglotad/forge/biome_modifier/derposityore_biome_modifier.json",
+          "src/main/resources/data/lightninglotad/worldgen/configured_feature/derposityore.json"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "DerposityOreSmelt",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_ore_smelt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_ore_smelt.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityStoneSmelt",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_stone_smelt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_stone_smelt.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityOreBlast",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_ore_blast",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_ore_blast.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityStoneLT",
+      "type": "loottable",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_stone_lt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/loot_tables/blocks/derposity_stone.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityHelmetRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_helmet_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityChestplateRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_chestplate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_chestplate_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_leggings_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityBootsRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_boots_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityStickRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_stick_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "PurpleDerposityStickRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_derposity_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/purple_derposity_stick_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "PigSpawn",
+      "type": "procedure",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_spawn",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/procedures/PigSpawnProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Dane/Recipes"
+    },
+    {
+      "name": "DanesSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "danes_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/danes_sword.json",
+          "src/main/java/lightninglotad/item/DanesSwordItem.java"
+        ]
+      },
+      "path": "~/Dane"
+    },
+    {
+      "name": "DerposityHelmetPotionEffect",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_helmet_potion_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/procedures/DerposityHelmetPotionEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DaneGem",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dane_gem",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/DaneGemItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/dane_gem.json"
+        ]
+      },
+      "path": "~/Dane"
+    },
+    {
+      "name": "DanesSwordRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "danes_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/danes_sword_recipe.json"
+        ]
+      },
+      "path": "~/Dane/Recipes"
+    },
+    {
+      "name": "DanesGemRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "danes_gem_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/danes_gem_recipe.json"
+        ]
+      },
+      "path": "~/Dane/Recipes"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/RubyItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/ruby.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Ruby"
+    },
+    {
+      "name": "RefinedRuby",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "refined_ruby",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/refined_ruby.json",
+          "src/main/java/lightninglotad/item/RefinedRubyItem.java"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Ruby"
+    },
+    {
+      "name": "RefinedRubySmelt",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "refined_ruby_smelt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/refined_ruby_smelt.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "DerposityBlock",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/block/derposity_block.json",
+          "src/main/java/lightninglotad/block/DerposityBlockBlock.java",
+          "src/main/resources/assets/lightninglotad/models/item/derposity_block.json",
+          "src/main/resources/assets/lightninglotad/blockstates/derposity_block.json"
+        ]
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "DerposityBlockRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_block_recipe.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityBlockRecipe2",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_block_recipe_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_block_recipe_2.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityHelmetReverse",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_helmet_reverse",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_helmet_reverse.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityChestplateReverse",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_chestplate_reverse",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_chestplate_reverse.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityLeggingsReverse",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_leggings_reverse",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_leggings_reverse.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "DerposityBootsReverse",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_boots_reverse",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_boots_reverse.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/RubySwordItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/ruby_sword.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/ruby_pickaxe.json",
+          "src/main/java/lightninglotad/item/RubyPickaxeItem.java"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/ruby_axe.json",
+          "src/main/java/lightninglotad/item/RubyAxeItem.java"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/ruby_shovel.json",
+          "src/main/java/lightninglotad/item/RubyShovelItem.java"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/ruby_hoe.json",
+          "src/main/java/lightninglotad/item/RubyHoeItem.java"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "RubyBattleaxe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_battleaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/ruby_battleaxe.json",
+          "src/main/java/lightninglotad/item/RubyBattleaxeItem.java"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "RubyArmor",
+      "type": "armor",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/ruby_armor_leggings.json",
+          "src/main/java/lightninglotad/item/RubyArmorItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/ruby_armor_helmet.json",
+          "src/main/resources/assets/lightninglotad/models/item/ruby_armor_chestplate.json",
+          "src/main/resources/assets/lightninglotad/models/item/ruby_armor_boots.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "EmeraldSword",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/EmeraldSwordItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/emerald_sword.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "EmeraldPickaxe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/EmeraldPickaxeItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/emerald_pickaxe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "EmeraldAxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/EmeraldAxeItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/emerald_axe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "EmeraldShovel",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/EmeraldShovelItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/emerald_shovel.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "EmeraldHoe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/EmeraldHoeItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/emerald_hoe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "EmeraldBattleaxe",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_battleaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/emerald_battleaxe.json",
+          "src/main/java/lightninglotad/item/EmeraldBattleaxeItem.java"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "EmeraldArmor",
+      "type": "armor",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/emerald_armor_chestplate.json",
+          "src/main/resources/assets/lightninglotad/models/item/emerald_armor_helmet.json",
+          "src/main/resources/assets/lightninglotad/models/item/emerald_armor_leggings.json",
+          "src/main/java/lightninglotad/item/EmeraldArmorItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/emerald_armor_boots.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald"
+    },
+    {
+      "name": "EmeraldHelmetPotionEffect",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_chestplate_potion_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/procedures/EmeraldHelmetPotionEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubySwordRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_sword_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "EmeraldSwordRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/emerald_sword_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyAxeRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_axe_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyShovelRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyHoeRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyBattleaxeRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_battleaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_battleaxe_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "EmeraldPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/emerald_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "EmeraldAxeRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/emerald_axe_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "EmeraldShovelRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/emerald_shovel_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "EmeraldHoeRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/emerald_hoe_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "EmeraldBattleaxeRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_battleaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/emerald_battleaxe_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyHelmetRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_helmet_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyChestplateRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_chestplate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_chestplate_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_leggings_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyBootsRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_boots_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "EmeraldHelmetRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_helmet_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/emerald_helmet_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "EmeraldChestplateRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_chestplate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/emerald_chestplate_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "EmeraldLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_leggings_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/emerald_leggings_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "EmeraldBootsRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_boots_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/emerald_boots_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/worldgen/placed_feature/ruby_ore.json",
+          "src/main/resources/assets/lightninglotad/models/block/ruby_ore.json",
+          "src/main/java/lightninglotad/block/RubyOreBlock.java",
+          "src/main/resources/data/lightninglotad/forge/biome_modifier/ruby_ore_biome_modifier.json",
+          "src/main/resources/assets/lightninglotad/blockstates/ruby_ore.json",
+          "src/main/resources/data/lightninglotad/worldgen/configured_feature/ruby_ore.json",
+          "src/main/resources/assets/lightninglotad/models/item/ruby_ore.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Ruby"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_block",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/block/ruby_block.json",
+          "src/main/resources/assets/lightninglotad/models/item/ruby_block.json",
+          "src/main/java/lightninglotad/block/RubyBlockBlock.java",
+          "src/main/resources/assets/lightninglotad/blockstates/ruby_block.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Ruby"
+    },
+    {
+      "name": "RubyOreLT",
+      "type": "loottable",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore_lt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/loot_tables/blocks/ruby_ore.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubySmelt",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_smelt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_smelt.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyBlast",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_blast",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_blast.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyHelmetPotionEffect",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_helmet_potion_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/procedures/RubyHelmetPotionEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "RubyBlockRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_block_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/ruby_block_recipe.json"
+        ]
+      },
+      "path": "~/Ruby and Emerald/Recipes"
+    },
+    {
+      "name": "PigLotad",
+      "type": "livingentity",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_lotad",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/forge/biome_modifier/pig_lotad_biome_modifier.json",
+          "src/main/resources/assets/lightninglotad/models/item/pig_lotad_spawn_egg.json",
+          "src/main/java/lightninglotad/entity/PigLotadEntity.java",
+          "src/main/java/lightninglotad/client/renderer/PigLotadRenderer.java"
+        ]
+      },
+      "path": "~/Mobs"
+    },
+    {
+      "name": "PigLotadSpawn",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_lotad_spawn",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/procedures/PigLotadSpawnProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "PigLotadLT",
+      "type": "loottable",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_lotad_lt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/loot_tables/entities/pig_lotad.json"
+        ]
+      },
+      "path": "~/Mobs"
+    },
+    {
+      "name": "WoodBattleaxe",
+      "type": "tool",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_battleaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/WoodBattleaxeItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/wood_battleaxe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "StoneBattleaxe",
+      "type": "tool",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_battleaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/StoneBattleaxeItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/stone_battleaxe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "IronBattleaxe",
+      "type": "tool",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_battleaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/IronBattleaxeItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/iron_battleaxe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "GoldBattleaxe",
+      "type": "tool",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_battleaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/gold_battleaxe.json",
+          "src/main/java/lightninglotad/item/GoldBattleaxeItem.java"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "DiamondBattleaxe",
+      "type": "tool",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_battleaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/DiamondBattleaxeItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/diamond_battleaxe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "NetheriteBattleaxe",
+      "type": "tool",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_battleaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/NetheriteBattleaxeItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/netherite_battleaxe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "WoodBARecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wood_ba_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/wood_ba_recipe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "StoneBARecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone_ba_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/stone_ba_recipe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "IronBARecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_ba_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/iron_ba_recipe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "GoldBARecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gold_ba_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/gold_ba_recipe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "DiamondBARecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_ba_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/diamond_ba_recipe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "NetheriteBARecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_ba_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/netherite_ba_recipe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "DerposityPainting",
+      "type": "painting",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_painting",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/Derposity"
+    },
+    {
+      "name": "DerposityChestplatePotionEffect",
+      "type": "procedure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_chestplate_potion_effect",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/procedures/DerposityChestplatePotionEffectProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "Derposityoreloottable",
+      "type": "loottable",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposityoreloottable",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/loot_tables/blocks/derposityore.json"
+        ]
+      },
+      "path": "~/Derposity/Recipes"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.lightninglotad.derpositybattleaxe": "Derposity Battleaxe",
+      "item.lightninglotad.derposity_chestplate": "Derposity Chestplate",
+      "item.lightninglotad.derposity_leggings": "Derposity Leggings",
+      "item.lightninglotad.danes_sword": "Dane\u0027s Sword",
+      "item.lightninglotad.emerald_armor_leggings": "Emerald Leggings",
+      "item.lightninglotad.ruby_armor_boots": "Ruby Boots",
+      "item.lightninglotad.ruby_sword": "Ruby Sword",
+      "entity.lightninglotad.pig_lotad": "Pig Lotad",
+      "block.lightninglotad.derposity_cobblestone": "Derposity Cobblestone",
+      "item.lightninglotad.derposity_boots": "Derposity Boots",
+      "item.lightninglotad.ruby_armor_chestplate": "Ruby Chestplate",
+      "item.lightninglotad.ruby_pickaxe": "Ruby Pickaxe",
+      "item.lightninglotad.dane_gem": "Dane\u0027s Gem",
+      "item.lightninglotad.emerald_sword": "Emerald Sword",
+      "item.lightninglotad.ruby_axe": "Ruby Axe",
+      "item.lightninglotad.derposityshovel": "Derposity Shovel",
+      "item.lightninglotad.diamond_battleaxe": "Diamond Battleaxe",
+      "item.lightninglotad.derposityaxe": "Derposity Axe",
+      "item.lightninglotad.stone_battleaxe": "Stone Battleaxe",
+      "item.lightninglotad.emerald_hoe": "Emerald Hoe",
+      "item.lightninglotad.pig_lotad_spawn_egg": "Pig Lotad Spawn Egg",
+      "item.lightninglotad.emerald_armor_boots": "Emerald Boots",
+      "item.lightninglotad.derposityhoe": "Derposityhoe",
+      "block.lightninglotad.derposityore": "Derposity Ore",
+      "item.lightninglotad.wood_battleaxe": "Wood Battleaxe",
+      "item.lightninglotad.ruby": "Ruby",
+      "item.lightninglotad.netherite_battleaxe": "Netherite Battleaxe",
+      "item.lightninglotad.emerald_axe": "Emerald Axe",
+      "item.lightninglotad.emerald_battleaxe": "Emerald Battleaxe",
+      "item.lightninglotad.iron_battleaxe": "Iron Battleaxe",
+      "block.lightninglotad.derpositystone": "Derposity Stone",
+      "item.lightninglotad.ruby_shovel": "Ruby Spade",
+      "item.lightninglotad.derpositypickaxe": "Derposity Pickaxe",
+      "item.lightninglotad.emerald_pickaxe": "Emerald Pickaxe",
+      "item.lightninglotad.gold_battleaxe": "Gold Battleaxe",
+      "item.lightninglotad.ruby_armor_helmet": "Ruby Helmet",
+      "item.lightninglotad.derpositysword": "Derposity Sword",
+      "painting.lightninglotad.derposity_painting.author": "Dane",
+      "item.lightninglotad.emerald_armor_helmet": "Emerald Helmet",
+      "item.lightninglotad.purplederpositystick": "Derposity Stick",
+      "item_group.lightninglotad.lightning_lotad_tab": "Lightning Lotad",
+      "item.lightninglotad.ruby_armor_leggings": "Ruby Leggings",
+      "item.lightninglotad.derpositystick": "Derposity Stick",
+      "painting.lightninglotad.derposity_painting.title": "Pig Lotad",
+      "item.lightninglotad.derposity_helmet": "Derposity Helmet",
+      "block.lightninglotad.derposity_block": "Derposity Block",
+      "item.lightninglotad.emerald_shovel": "Emerald Spade",
+      "item.lightninglotad.ruby_hoe": "Ruby Hoe",
+      "block.lightninglotad.ruby_ore": "Ruby Ore",
+      "item.lightninglotad.derpositygem": "Derposity Gem",
+      "block.lightninglotad.ruby_block": "Ruby Block",
+      "item.lightninglotad.ruby_battleaxe": "Ruby Battleaxe",
+      "item.lightninglotad.refined_ruby": "Refined Ruby",
+      "item.lightninglotad.emerald_armor_chestplate": "Emerald Chestplate"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Derposity",
+        "children": [
+          {
+            "name": "Recipes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Dane",
+        "children": [
+          {
+            "name": "Recipes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Ruby and Emerald",
+        "children": [
+          {
+            "name": "Recipes",
+            "children": []
+          },
+          {
+            "name": "Ruby",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Mobs",
+        "children": []
+      },
+      {
+        "name": "Battleaxes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "lightninglotad",
+    "modName": "Lightning Lotad",
+    "version": "1.0.0",
+    "description": "Recreation of our mod, Lightning Lotad!",
+    "author": "Dane\u0027s Music Collection",
+    "websiteURL": "https://danesmusiccollection.weebly.com",
+    "license": "GNU Lesser General Public License version 3 (LGPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "pig_lotad_painting",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Dane \u0026 LightningZues5",
+    "modElementsPackage": "lightninglotad",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

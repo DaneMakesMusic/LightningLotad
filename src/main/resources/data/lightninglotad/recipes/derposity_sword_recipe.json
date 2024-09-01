@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lightning_lotad_weapons",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "bab",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "lightninglotad:derpositygem"
+    },
+    "b": {
+      "item": "lightninglotad:purplederpositystick"
+    },
+    "c": {
+      "item": "lightninglotad:derpositystick"
+    }
+  },
+  "result": {
+    "item": "lightninglotad:derpositysword",
+    "count": 1
+  }
+}

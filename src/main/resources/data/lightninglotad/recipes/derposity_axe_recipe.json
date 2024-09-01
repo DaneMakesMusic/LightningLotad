@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lightning_lotad_tools",
+  "category": "equipment",
+  "pattern": [
+    "aa",
+    "ab",
+    " b"
+  ],
+  "key": {
+    "a": {
+      "item": "lightninglotad:derpositygem"
+    },
+    "b": {
+      "item": "lightninglotad:derpositystick"
+    }
+  },
+  "result": {
+    "item": "lightninglotad:derposityaxe",
+    "count": 1
+  }
+}

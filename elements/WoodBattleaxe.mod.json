@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "wood_battleaxe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Wood Battleaxe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:LightningLotadTab"
+    },
+    "harvestLevel": 0,
+    "efficiency": 3.0,
+    "attackSpeed": 0.75,
+    "enchantability": 15,
+    "damageVsEntity": 4.5,
+    "usageCount": 75,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.PLANKS"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

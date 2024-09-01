@@ -1,0 +1,37 @@
+{
+  "_fv": 57,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Spade",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "emerald_spade",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Emerald Spade",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:LightningLotadTab"
+    },
+    "harvestLevel": 3,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 11,
+    "damageVsEntity": 6.0,
+    "usageCount": 1850,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Items.EMERALD"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
