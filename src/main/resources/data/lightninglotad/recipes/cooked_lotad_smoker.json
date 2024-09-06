@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "lotad_dishes",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "lightninglotad:raw_lotad"
+  },
+  "result": "lightninglotad:cooked_lotad"
+}

@@ -68,6 +68,8 @@ public class LightninglotadModTabs {
 				tabData.accept(LightninglotadModItems.DERPOSITYSTICK.get());
 				tabData.accept(LightninglotadModItems.PURPLEDERPOSITYSTICK.get());
 				tabData.accept(LightninglotadModItems.PIG_LOTAD_SPAWN_EGG.get());
+				tabData.accept(LightninglotadModItems.RAW_LOTAD.get());
+				tabData.accept(LightninglotadModItems.COOKED_LOTAD.get());
 			})
 
 					.build());

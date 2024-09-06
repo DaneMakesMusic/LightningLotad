@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "lotad_dishes",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:RawLotad"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:CookedLotad"
+    },
+    "name": "cooked_lotad_smoker",
+    "namespace": "mod"
+  }
+}

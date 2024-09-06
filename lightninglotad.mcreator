@@ -99,7 +99,7 @@
           "src/main/resources/assets/lightninglotad/models/item/derpositybattleaxe.json"
         ]
       },
-      "path": "~/Derposity"
+      "path": "~/Battleaxes"
     },
     {
       "name": "Derpositygem",
@@ -1611,14 +1611,101 @@
         ]
       },
       "path": "~/Derposity/Recipes"
+    },
+    {
+      "name": "RawLotad",
+      "type": "item",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lotad",
+      "metadata": {
+        "files": [
+          "src/main/java/lightninglotad/item/RawLotadItem.java",
+          "src/main/resources/assets/lightninglotad/models/item/raw_lotad.json"
+        ]
+      },
+      "path": "~/Food"
+    },
+    {
+      "name": "CookedLotad",
+      "type": "item",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_lotad",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/cooked_lotad.json",
+          "src/main/java/lightninglotad/item/CookedLotadItem.java"
+        ]
+      },
+      "path": "~/Food"
+    },
+    {
+      "name": "CookedLotadSmelt",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_lotad_smelt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/cooked_lotad_smelt.json"
+        ]
+      },
+      "path": "~/Food"
+    },
+    {
+      "name": "CookedLotadSmoker",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_lotad_smoker",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/cooked_lotad_smoker.json"
+        ]
+      },
+      "path": "~/Food"
+    },
+    {
+      "name": "DerposityBattleaxeOP",
+      "type": "tool",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_battleaxe_op",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/lightninglotad/models/item/derposity_battleaxe_op.json",
+          "src/main/java/lightninglotad/item/DerposityBattleaxeOPItem.java"
+        ]
+      },
+      "path": "~/Battleaxes"
+    },
+    {
+      "name": "DerposityBattleaxeOPRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "derposity_battleaxe_op_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/lightninglotad/recipes/derposity_battleaxe_op_recipe.json"
+        ]
+      },
+      "path": "~/Battleaxes"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.lightninglotad.derposity_chestplate": "Derposity Chestplate",
       "item.lightninglotad.derpositybattleaxe": "Derposity Battleaxe",
+      "item.lightninglotad.derposity_chestplate": "Derposity Chestplate",
       "item.lightninglotad.derposity_leggings": "Derposity Leggings",
       "item.lightninglotad.danes_sword": "Dane\u0027s Sword",
       "item.lightninglotad.emerald_armor_leggings": "Emerald Leggings",
@@ -1632,6 +1719,7 @@
       "item.lightninglotad.dane_gem": "Dane\u0027s Gem",
       "item.lightninglotad.emerald_sword": "Emerald Sword",
       "item.lightninglotad.ruby_axe": "Ruby Axe",
+      "item.lightninglotad.raw_lotad": "Raw Lotad",
       "item.lightninglotad.derposityshovel": "Derposity Shovel",
       "item.lightninglotad.diamond_battleaxe": "Diamond Battleaxe",
       "item.lightninglotad.derposityaxe": "Derposity Axe",
@@ -1648,10 +1736,12 @@
       "item.lightninglotad.emerald_battleaxe": "Emerald Battleaxe",
       "item.lightninglotad.iron_battleaxe": "Iron Battleaxe",
       "block.lightninglotad.derpositystone": "Derposity Stone",
+      "item.lightninglotad.cooked_lotad": "Cooked Lotad",
       "item.lightninglotad.ruby_shovel": "Ruby Spade",
       "item.lightninglotad.derpositypickaxe": "Derposity Pickaxe",
       "item.lightninglotad.emerald_pickaxe": "Emerald Pickaxe",
       "item.lightninglotad.gold_battleaxe": "Gold Battleaxe",
+      "item.lightninglotad.derposity_battleaxe_op": "Derposity Battleaxe (Classic)",
       "item.lightninglotad.ruby_armor_helmet": "Ruby Helmet",
       "item.lightninglotad.derpositysword": "Derposity Sword",
       "painting.lightninglotad.derposity_painting.author": "Dane",
@@ -1714,17 +1804,21 @@
       {
         "name": "Battleaxes",
         "children": []
+      },
+      {
+        "name": "Food",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "lightninglotad",
     "modName": "Lightning Lotad",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "Recreation of our mod, Lightning Lotad!",
     "author": "Dane\u0027s Music Collection",
     "websiteURL": "https://danesmusiccollection.weebly.com",
-    "license": "Public Domain",
+    "license": "GNU Lesser General Public License version 3 (LGPLv3)",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "pig_lotad_painting",

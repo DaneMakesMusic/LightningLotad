@@ -30,7 +30,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:porkchop",
+          "name": "lightninglotad:raw_lotad",
           "weight": 1,
           "functions": [
             {

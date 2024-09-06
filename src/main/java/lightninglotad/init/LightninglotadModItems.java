@@ -24,6 +24,7 @@ import lightninglotad.item.RubyBattleaxeItem;
 import lightninglotad.item.RubyAxeItem;
 import lightninglotad.item.RubyArmorItem;
 import lightninglotad.item.RefinedRubyItem;
+import lightninglotad.item.RawLotadItem;
 import lightninglotad.item.PurplederpositystickItem;
 import lightninglotad.item.NetheriteBattleaxeItem;
 import lightninglotad.item.IronBattleaxeItem;
@@ -45,8 +46,10 @@ import lightninglotad.item.DerpositygemItem;
 import lightninglotad.item.DerpositybattleaxeItem;
 import lightninglotad.item.DerposityaxeItem;
 import lightninglotad.item.DerposityItem;
+import lightninglotad.item.DerposityBattleaxeOPItem;
 import lightninglotad.item.DanesSwordItem;
 import lightninglotad.item.DaneGemItem;
+import lightninglotad.item.CookedLotadItem;
 
 import lightninglotad.LightninglotadMod;
 
@@ -102,6 +105,9 @@ public class LightninglotadModItems {
 	public static final RegistryObject<Item> DERPOSITYSTICK = REGISTRY.register("derpositystick", () -> new DerpositystickItem());
 	public static final RegistryObject<Item> PURPLEDERPOSITYSTICK = REGISTRY.register("purplederpositystick", () -> new PurplederpositystickItem());
 	public static final RegistryObject<Item> PIG_LOTAD_SPAWN_EGG = REGISTRY.register("pig_lotad_spawn_egg", () -> new ForgeSpawnEggItem(LightninglotadModEntities.PIG_LOTAD, -16751732, -13071360, new Item.Properties()));
+	public static final RegistryObject<Item> RAW_LOTAD = REGISTRY.register("raw_lotad", () -> new RawLotadItem());
+	public static final RegistryObject<Item> COOKED_LOTAD = REGISTRY.register("cooked_lotad", () -> new CookedLotadItem());
+	public static final RegistryObject<Item> DERPOSITY_BATTLEAXE_OP = REGISTRY.register("derposity_battleaxe_op", () -> new DerposityBattleaxeOPItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

@@ -37,7 +37,7 @@
           {
             "type": "item",
             "item": {
-              "value": "Items.PORKCHOP"
+              "value": "CUSTOM:RawLotad"
             },
             "weight": 1,
             "minCount": 1,
